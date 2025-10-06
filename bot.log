@@ -1,0 +1,236 @@
+2025-10-06T07:36:14.909+07:00  INFO 14132 --- [main] ru.brusnika.VacationBotApplication       : Starting VacationBotApplication using Java 17.0.13 with PID 14132 (C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation\target\classes started by s.mihno in C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation)
+2025-10-06T07:36:14.920+07:00  INFO 14132 --- [main] ru.brusnika.VacationBotApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-10-06T07:36:16.219+07:00  INFO 14132 --- [main] ru.brusnika.VacationBotApplication       : Started VacationBotApplication in 1.759 seconds (process running for 2.381)
+2025-10-06T07:36:16.222+07:00  INFO 14132 --- [main] ru.brusnika.config.DatabaseInitializer   : Проверка и создание базы данных...
+2025-10-06T07:36:16.325+07:00  INFO 14132 --- [main] ru.brusnika.config.DatabaseInitializer   : База данных и таблица users уже существуют.
+2025-10-06T07:36:16.906+07:00  INFO 14132 --- [main] ru.brusnika.VacationBotApplication       : ✅ Бот успешно зарегистрирован и запущен!
+2025-10-06T07:36:16.906+07:00  INFO 14132 --- [main] ru.brusnika.VacationBotApplication       : ✅ База данных инициализирована
+2025-10-06T07:36:16.906+07:00  INFO 14132 --- [main] ru.brusnika.VacationBotApplication       : ✅ Планировщик уведомлений активирован
+2025-10-06T08:03:21.496+07:00  INFO 1756 --- [main] ru.brusnika.VacationBotApplication       : Starting VacationBotApplication using Java 17.0.13 with PID 1756 (C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation\target\classes started by s.mihno in C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation)
+2025-10-06T08:03:21.496+07:00  INFO 1756 --- [main] ru.brusnika.VacationBotApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-10-06T08:03:22.716+07:00  INFO 1756 --- [main] ru.brusnika.VacationBotApplication       : Started VacationBotApplication in 1.709 seconds (process running for 2.088)
+2025-10-06T08:03:22.716+07:00  INFO 1756 --- [main] ru.brusnika.config.DatabaseInitializer   : Проверка и создание базы данных...
+2025-10-06T08:03:22.842+07:00  INFO 1756 --- [main] ru.brusnika.config.DatabaseInitializer   : База данных и таблица users уже существуют.
+2025-10-06T08:03:23.332+07:00  INFO 1756 --- [main] ru.brusnika.VacationBotApplication       : ✅ Бот успешно зарегистрирован и запущен!
+2025-10-06T08:03:23.332+07:00  INFO 1756 --- [main] ru.brusnika.VacationBotApplication       : ✅ База данных инициализирована
+2025-10-06T08:03:23.332+07:00  INFO 1756 --- [main] ru.brusnika.VacationBotApplication       : ✅ Планировщик уведомлений активирован
+2025-10-06T08:05:15.971+07:00  INFO 15512 --- [main] ru.brusnika.VacationBotApplication       : Starting VacationBotApplication using Java 17.0.13 with PID 15512 (C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation\target\classes started by s.mihno in C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation)
+2025-10-06T08:05:15.971+07:00  INFO 15512 --- [main] ru.brusnika.VacationBotApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-10-06T08:05:17.390+07:00  INFO 15512 --- [main] ru.brusnika.VacationBotApplication       : Started VacationBotApplication in 1.844 seconds (process running for 2.204)
+2025-10-06T08:05:17.390+07:00  INFO 15512 --- [main] ru.brusnika.config.DatabaseInitializer   : Проверка и создание базы данных...
+2025-10-06T08:05:17.562+07:00  INFO 15512 --- [main] ru.brusnika.config.DatabaseInitializer   : База данных и таблица users уже существуют.
+2025-10-06T08:05:18.148+07:00  INFO 15512 --- [main] ru.brusnika.VacationBotApplication       : ✅ Бот успешно зарегистрирован и запущен!
+2025-10-06T08:05:18.148+07:00  INFO 15512 --- [main] ru.brusnika.VacationBotApplication       : ✅ База данных инициализирована
+2025-10-06T08:05:18.148+07:00  INFO 15512 --- [main] ru.brusnika.VacationBotApplication       : ✅ Планировщик уведомлений активирован
+2025-10-06T08:07:00.035+07:00  INFO 15512 --- [scheduling-1] r.brusnika.service.NotificationService   : === ПРОВЕРКА ПРЕДСТОЯЩИХ ОТПУСКОВ ===
+2025-10-06T08:07:00.068+07:00  INFO 15512 --- [scheduling-1] r.brusnika.service.NotificationService   : Найдено пользователей для уведомления: 1
+2025-10-06T08:07:00.068+07:00  INFO 15512 --- [scheduling-1] r.brusnika.service.NotificationService   : Отправка уведомления пользователю: Михно Сергей Викторович
+2025-10-06T08:07:00.579+07:00  INFO 15512 --- [scheduling-1] r.brusnika.service.NotificationService   : Уведомление отправлено пользователю 472237124 (отпуск #2)
+2025-10-06T08:13:11.899+07:00  INFO 14844 --- [main] ru.brusnika.VacationBotApplication       : Starting VacationBotApplication using Java 17.0.13 with PID 14844 (C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation\target\classes started by s.mihno in C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation)
+2025-10-06T08:13:11.901+07:00  INFO 14844 --- [main] ru.brusnika.VacationBotApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-10-06T08:13:13.038+07:00  INFO 14844 --- [main] ru.brusnika.VacationBotApplication       : Started VacationBotApplication in 1.575 seconds (process running for 1.896)
+2025-10-06T08:13:13.038+07:00  INFO 14844 --- [main] ru.brusnika.config.DatabaseInitializer   : Проверка и создание базы данных...
+2025-10-06T08:13:13.152+07:00  INFO 14844 --- [main] ru.brusnika.config.DatabaseInitializer   : База данных и таблица users уже существуют.
+2025-10-06T08:13:13.651+07:00  INFO 14844 --- [main] ru.brusnika.VacationBotApplication       : ✅ Бот успешно зарегистрирован и запущен!
+2025-10-06T08:13:13.651+07:00  INFO 14844 --- [main] ru.brusnika.VacationBotApplication       : ✅ База данных инициализирована
+2025-10-06T08:13:13.651+07:00  INFO 14844 --- [main] ru.brusnika.VacationBotApplication       : ✅ Планировщик уведомлений активирован
+2025-10-06T08:15:00.015+07:00  INFO 14844 --- [scheduling-1] r.brusnika.service.NotificationService   : === ПРОВЕРКА ПРЕДСТОЯЩИХ ОТПУСКОВ ===
+2025-10-06T08:15:00.030+07:00  INFO 14844 --- [scheduling-1] r.brusnika.service.NotificationService   : Найдено пользователей для уведомления: 1
+2025-10-06T08:15:00.046+07:00  INFO 14844 --- [scheduling-1] r.brusnika.service.NotificationService   : Отправка уведомления пользователю: Михно Сергей Викторович
+2025-10-06T08:15:00.705+07:00  INFO 14844 --- [scheduling-1] r.brusnika.service.NotificationService   : Уведомление отправлено пользователю 472237124 (отпуск #2)
+2025-10-06T08:18:17.612+07:00  INFO 15960 --- [main] ru.brusnika.VacationBotApplication       : Starting VacationBotApplication using Java 17.0.13 with PID 15960 (C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation\target\classes started by s.mihno in C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation)
+2025-10-06T08:18:17.612+07:00  INFO 15960 --- [main] ru.brusnika.VacationBotApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-10-06T08:18:18.817+07:00  INFO 15960 --- [main] ru.brusnika.VacationBotApplication       : Started VacationBotApplication in 1.603 seconds (process running for 1.946)
+2025-10-06T08:18:18.817+07:00  INFO 15960 --- [main] ru.brusnika.config.DatabaseInitializer   : Проверка и создание базы данных...
+2025-10-06T08:18:18.927+07:00  INFO 15960 --- [main] ru.brusnika.config.DatabaseInitializer   : База данных и таблица users уже существуют.
+2025-10-06T08:18:19.413+07:00  INFO 15960 --- [main] ru.brusnika.VacationBotApplication       : ✅ Бот успешно зарегистрирован и запущен!
+2025-10-06T08:18:19.413+07:00  INFO 15960 --- [main] ru.brusnika.VacationBotApplication       : ✅ База данных инициализирована
+2025-10-06T08:18:19.413+07:00  INFO 15960 --- [main] ru.brusnika.VacationBotApplication       : ✅ Планировщик уведомлений активирован
+2025-10-06T08:20:00.038+07:00  INFO 15960 --- [scheduling-1] r.brusnika.service.NotificationService   : === ПРОВЕРКА ПРЕДСТОЯЩИХ ОТПУСКОВ ===
+2025-10-06T08:20:00.069+07:00  INFO 15960 --- [scheduling-1] r.brusnika.service.NotificationService   : Найдено пользователей для уведомления: 1
+2025-10-06T08:20:00.072+07:00  INFO 15960 --- [scheduling-1] r.brusnika.service.NotificationService   : Отправка уведомления пользователю: Михно Сергей Викторович
+2025-10-06T08:20:00.641+07:00  INFO 15960 --- [scheduling-1] r.brusnika.service.NotificationService   : Уведомление отправлено пользователю 472237124 (отпуск #2)
+2025-10-06T08:25:11.879+07:00  INFO 17048 --- [main] ru.brusnika.VacationBotApplication       : Starting VacationBotApplication using Java 17.0.13 with PID 17048 (C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation\target\classes started by s.mihno in C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation)
+2025-10-06T08:25:11.883+07:00  INFO 17048 --- [main] ru.brusnika.VacationBotApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-10-06T08:25:13.136+07:00  INFO 17048 --- [main] ru.brusnika.VacationBotApplication       : Started VacationBotApplication in 1.676 seconds (process running for 1.985)
+2025-10-06T08:25:13.136+07:00  INFO 17048 --- [main] ru.brusnika.config.DatabaseInitializer   : Проверка и создание базы данных...
+2025-10-06T08:25:13.276+07:00  INFO 17048 --- [main] ru.brusnika.config.DatabaseInitializer   : База данных и таблица users уже существуют.
+2025-10-06T08:25:13.783+07:00  INFO 17048 --- [main] ru.brusnika.VacationBotApplication       : ✅ Бот успешно зарегистрирован и запущен!
+2025-10-06T08:25:13.783+07:00  INFO 17048 --- [main] ru.brusnika.VacationBotApplication       : ✅ База данных инициализирована
+2025-10-06T08:25:13.783+07:00  INFO 17048 --- [main] ru.brusnika.VacationBotApplication       : ✅ Планировщик уведомлений активирован
+2025-10-06T08:27:00.005+07:00  INFO 17048 --- [scheduling-1] r.brusnika.service.NotificationService   : === ПРОВЕРКА ПРЕДСТОЯЩИХ ОТПУСКОВ ===
+2025-10-06T08:27:00.020+07:00  INFO 17048 --- [scheduling-1] r.brusnika.service.NotificationService   : Найдено пользователей для уведомления: 1
+2025-10-06T08:27:00.036+07:00  INFO 17048 --- [scheduling-1] r.brusnika.service.NotificationService   : Отправка уведомления пользователю: Михно Сергей Викторович
+2025-10-06T08:27:00.477+07:00  INFO 17048 --- [scheduling-1] r.brusnika.service.NotificationService   : Уведомление отправлено пользователю 472237124 (отпуск #2)
+2025-10-06T08:57:26.111+07:00  INFO 14048 --- [main] ru.brusnika.VacationBotApplication       : Starting VacationBotApplication using Java 17.0.13 with PID 14048 (C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation\target\classes started by s.mihno in C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation)
+2025-10-06T08:57:26.127+07:00  INFO 14048 --- [main] ru.brusnika.VacationBotApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-10-06T08:57:27.323+07:00  INFO 14048 --- [main] ru.brusnika.VacationBotApplication       : Started VacationBotApplication in 1.635 seconds (process running for 1.998)
+2025-10-06T08:57:27.323+07:00  INFO 14048 --- [main] ru.brusnika.config.DatabaseInitializer   : Проверка и создание базы данных...
+2025-10-06T08:57:27.448+07:00  INFO 14048 --- [main] ru.brusnika.config.DatabaseInitializer   : База данных и таблица users уже существуют.
+2025-10-06T08:57:27.917+07:00  INFO 14048 --- [main] ru.brusnika.VacationBotApplication       : ✅ Бот успешно зарегистрирован и запущен!
+2025-10-06T08:57:27.917+07:00  INFO 14048 --- [main] ru.brusnika.VacationBotApplication       : ✅ База данных инициализирована
+2025-10-06T08:57:27.917+07:00  INFO 14048 --- [main] ru.brusnika.VacationBotApplication       : ✅ Планировщик уведомлений активирован
+2025-10-06T08:58:38.212+07:00  INFO 8548 --- [main] ru.brusnika.VacationBotApplication       : Starting VacationBotApplication using Java 17.0.13 with PID 8548 (C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation\target\classes started by s.mihno in C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation)
+2025-10-06T08:58:38.212+07:00  INFO 8548 --- [main] ru.brusnika.VacationBotApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-10-06T08:58:39.455+07:00  INFO 8548 --- [main] ru.brusnika.VacationBotApplication       : Started VacationBotApplication in 1.684 seconds (process running for 2.034)
+2025-10-06T08:58:39.455+07:00  INFO 8548 --- [main] ru.brusnika.config.DatabaseInitializer   : Проверка и создание базы данных...
+2025-10-06T08:58:39.565+07:00  INFO 8548 --- [main] ru.brusnika.config.DatabaseInitializer   : База данных и таблица users уже существуют.
+2025-10-06T08:58:40.068+07:00  INFO 8548 --- [main] ru.brusnika.VacationBotApplication       : ✅ Бот успешно зарегистрирован и запущен!
+2025-10-06T08:58:40.068+07:00  INFO 8548 --- [main] ru.brusnika.VacationBotApplication       : ✅ База данных инициализирована
+2025-10-06T08:58:40.068+07:00  INFO 8548 --- [main] ru.brusnika.VacationBotApplication       : ✅ Планировщик уведомлений активирован
+2025-10-06T09:00:00.030+07:00  INFO 8548 --- [scheduling-1] r.brusnika.service.NotificationService   : === ПРОВЕРКА ПРЕДСТОЯЩИХ ОТПУСКОВ ===
+2025-10-06T09:00:00.058+07:00  INFO 8548 --- [scheduling-1] r.brusnika.service.NotificationService   : Найдено пользователей для уведомления: 1
+2025-10-06T09:00:00.061+07:00  INFO 8548 --- [scheduling-1] r.brusnika.service.NotificationService   : Отправка уведомления пользователю: Михно Сергей Викторович
+2025-10-06T09:00:00.667+07:00  INFO 8548 --- [scheduling-1] r.brusnika.service.NotificationService   : Уведомление отправлено пользователю 472237124 (отпуск #2)
+2025-10-06T09:07:13.329+07:00  INFO 9076 --- [main] ru.brusnika.VacationBotApplication       : Starting VacationBotApplication using Java 17.0.13 with PID 9076 (C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation\target\classes started by s.mihno in C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation)
+2025-10-06T09:07:13.329+07:00  INFO 9076 --- [main] ru.brusnika.VacationBotApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-10-06T09:07:14.566+07:00  INFO 9076 --- [main] ru.brusnika.VacationBotApplication       : Started VacationBotApplication in 1.667 seconds (process running for 1.992)
+2025-10-06T09:07:14.566+07:00  INFO 9076 --- [main] ru.brusnika.config.DatabaseInitializer   : Проверка и создание базы данных...
+2025-10-06T09:07:14.708+07:00  INFO 9076 --- [main] ru.brusnika.config.DatabaseInitializer   : База данных и таблица users уже существуют.
+2025-10-06T09:07:15.281+07:00  INFO 9076 --- [main] ru.brusnika.VacationBotApplication       : ✅ Бот успешно зарегистрирован и запущен!
+2025-10-06T09:07:15.281+07:00  INFO 9076 --- [main] ru.brusnika.VacationBotApplication       : ✅ База данных инициализирована
+2025-10-06T09:07:15.281+07:00  INFO 9076 --- [main] ru.brusnika.VacationBotApplication       : ✅ Планировщик уведомлений активирован
+2025-10-06T09:10:00.020+07:00  INFO 9076 --- [scheduling-1] r.brusnika.service.NotificationService   : === ПРОВЕРКА ПРЕДСТОЯЩИХ ОТПУСКОВ ===
+2025-10-06T09:10:00.035+07:00  INFO 9076 --- [scheduling-1] r.brusnika.service.NotificationService   : Найдено пользователей для уведомления: 1
+2025-10-06T09:10:00.035+07:00  INFO 9076 --- [scheduling-1] r.brusnika.service.NotificationService   : Отправка уведомления пользователю: Михно Сергей Викторович
+2025-10-06T09:10:00.489+07:00  INFO 9076 --- [scheduling-1] r.brusnika.service.NotificationService   : Уведомление отправлено пользователю 472237124 (отпуск #2)
+2025-10-06T09:14:40.616+07:00  INFO 12112 --- [main] ru.brusnika.VacationBotApplication       : Starting VacationBotApplication using Java 17.0.13 with PID 12112 (C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation\target\classes started by s.mihno in C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation)
+2025-10-06T09:14:40.616+07:00  INFO 12112 --- [main] ru.brusnika.VacationBotApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-10-06T09:14:41.801+07:00  INFO 12112 --- [main] ru.brusnika.VacationBotApplication       : Started VacationBotApplication in 1.645 seconds (process running for 1.958)
+2025-10-06T09:14:41.812+07:00  INFO 12112 --- [main] ru.brusnika.config.DatabaseInitializer   : Проверка и создание базы данных...
+2025-10-06T09:14:41.938+07:00  INFO 12112 --- [main] ru.brusnika.config.DatabaseInitializer   : База данных и таблица users уже существуют.
+2025-10-06T09:14:42.508+07:00  INFO 12112 --- [main] ru.brusnika.VacationBotApplication       : ✅ Бот успешно зарегистрирован и запущен!
+2025-10-06T09:14:42.508+07:00  INFO 12112 --- [main] ru.brusnika.VacationBotApplication       : ✅ База данных инициализирована
+2025-10-06T09:14:42.508+07:00  INFO 12112 --- [main] ru.brusnika.VacationBotApplication       : ✅ Планировщик уведомлений активирован
+2025-10-06T09:15:00.014+07:00  INFO 12112 --- [scheduling-1] r.brusnika.service.NotificationService   : === ПРОВЕРКА ПРЕДСТОЯЩИХ ОТПУСКОВ ===
+2025-10-06T09:15:00.029+07:00  INFO 12112 --- [scheduling-1] r.brusnika.service.NotificationService   : Найдено пользователей для уведомления: 1
+2025-10-06T09:15:00.029+07:00  INFO 12112 --- [scheduling-1] r.brusnika.service.NotificationService   : Отправка уведомления пользователю: Михно Сергей Викторович
+2025-10-06T09:15:00.405+07:00  INFO 12112 --- [scheduling-1] r.brusnika.service.NotificationService   : Уведомление отправлено пользователю 472237124 (отпуск #1)
+2025-10-06T09:17:51.725+07:00  INFO 15120 --- [main] ru.brusnika.VacationBotApplication       : Starting VacationBotApplication using Java 17.0.13 with PID 15120 (C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation\target\classes started by s.mihno in C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation)
+2025-10-06T09:17:51.725+07:00  INFO 15120 --- [main] ru.brusnika.VacationBotApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-10-06T09:17:52.910+07:00  INFO 15120 --- [main] ru.brusnika.VacationBotApplication       : Started VacationBotApplication in 1.591 seconds (process running for 1.943)
+2025-10-06T09:17:52.910+07:00  INFO 15120 --- [main] ru.brusnika.config.DatabaseInitializer   : Проверка и создание базы данных...
+2025-10-06T09:17:53.051+07:00  INFO 15120 --- [main] ru.brusnika.config.DatabaseInitializer   : База данных и таблица users уже существуют.
+2025-10-06T09:17:53.632+07:00  INFO 15120 --- [main] ru.brusnika.VacationBotApplication       : ✅ Бот успешно зарегистрирован и запущен!
+2025-10-06T09:17:53.632+07:00  INFO 15120 --- [main] ru.brusnika.VacationBotApplication       : ✅ База данных инициализирована
+2025-10-06T09:17:53.632+07:00  INFO 15120 --- [main] ru.brusnika.VacationBotApplication       : ✅ Планировщик уведомлений активирован
+2025-10-06T09:19:00.029+07:00  INFO 15120 --- [scheduling-1] r.brusnika.service.NotificationService   : === ПРОВЕРКА ПРЕДСТОЯЩИХ ОТПУСКОВ ===
+2025-10-06T09:19:00.056+07:00  INFO 15120 --- [scheduling-1] r.brusnika.service.NotificationService   : Найдено пользователей для уведомления: 1
+2025-10-06T09:19:00.058+07:00  INFO 15120 --- [scheduling-1] r.brusnika.service.NotificationService   : Отправка уведомления пользователю: Михно Сергей Викторович
+2025-10-06T09:19:00.429+07:00  INFO 15120 --- [scheduling-1] r.brusnika.service.NotificationService   : Уведомление отправлено пользователю 472237124 (отпуск #1)
+2025-10-06T09:22:34.317+07:00  INFO 16892 --- [main] ru.brusnika.VacationBotApplication       : Starting VacationBotApplication using Java 17.0.13 with PID 16892 (C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation\target\classes started by s.mihno in C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation)
+2025-10-06T09:22:34.333+07:00  INFO 16892 --- [main] ru.brusnika.VacationBotApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-10-06T09:22:35.613+07:00  INFO 16892 --- [main] ru.brusnika.VacationBotApplication       : Started VacationBotApplication in 1.728 seconds (process running for 2.07)
+2025-10-06T09:22:35.613+07:00  INFO 16892 --- [main] ru.brusnika.config.DatabaseInitializer   : Проверка и создание базы данных...
+2025-10-06T09:22:35.769+07:00  INFO 16892 --- [main] ru.brusnika.config.DatabaseInitializer   : База данных и таблица users уже существуют.
+2025-10-06T09:22:36.304+07:00  INFO 16892 --- [main] ru.brusnika.VacationBotApplication       : ✅ Бот успешно зарегистрирован и запущен!
+2025-10-06T09:22:36.304+07:00  INFO 16892 --- [main] ru.brusnika.VacationBotApplication       : ✅ База данных инициализирована
+2025-10-06T09:22:36.304+07:00  INFO 16892 --- [main] ru.brusnika.VacationBotApplication       : ✅ Планировщик уведомлений активирован
+2025-10-06T09:24:00.035+07:00  INFO 16892 --- [scheduling-1] r.brusnika.service.NotificationService   : === ПРОВЕРКА ПРЕДСТОЯЩИХ ОТПУСКОВ ===
+2025-10-06T09:24:00.058+07:00  INFO 16892 --- [scheduling-1] r.brusnika.service.NotificationService   : Найдено пользователей для уведомления: 1
+2025-10-06T09:24:00.061+07:00  INFO 16892 --- [scheduling-1] r.brusnika.service.NotificationService   : Отправка уведомления пользователю: Михно Сергей Викторович
+2025-10-06T09:24:00.540+07:00  INFO 16892 --- [scheduling-1] r.brusnika.service.NotificationService   : Уведомление отправлено пользователю 472237124 (отпуск #1)
+2025-10-06T09:31:58.390+07:00  INFO 16892 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 996398272 запросил свой ID
+2025-10-06T09:32:00.016+07:00  INFO 16892 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 848368625 запросил свой ID
+2025-10-06T09:32:19.269+07:00  INFO 16892 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 5168613928 запросил свой ID
+2025-10-06T09:32:29.289+07:00  INFO 16892 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 1106360489 запросил свой ID
+2025-10-06T09:32:34.239+07:00  INFO 16892 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 5583679629 запросил свой ID
+2025-10-06T09:32:35.132+07:00  INFO 16892 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 5225206282 запросил свой ID
+2025-10-06T09:32:45.547+07:00  INFO 16892 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 957068543 запросил свой ID
+2025-10-06T09:32:48.323+07:00  INFO 16892 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 811464754 запросил свой ID
+2025-10-06T09:33:43.099+07:00  INFO 16892 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 501415837 запросил свой ID
+2025-10-06T09:33:53.775+07:00  INFO 16892 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 5817684771 запросил свой ID
+2025-10-06T09:34:44.594+07:00  INFO 16892 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 714472139 запросил свой ID
+2025-10-06T09:38:25.817+07:00  INFO 16892 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 562848134 запросил свой ID
+2025-10-06T09:41:54.546+07:00  INFO 16892 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 821854613 запросил свой ID
+2025-10-06T09:42:08.488+07:00  INFO 16892 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 1553074821 запросил свой ID
+2025-10-06T09:52:05.113+07:00  INFO 16892 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 907509163 запросил свой ID
+2025-10-06T09:53:42.376+07:00  INFO 16892 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 5273134294 запросил свой ID
+2025-10-06T09:55:02.295+07:00  INFO 16892 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 1096135043 запросил свой ID
+2025-10-06T09:55:09.232+07:00  INFO 16892 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 1408429942 запросил свой ID
+2025-10-06T09:57:14.432+07:00  INFO 16892 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Тестовое сообщение отправлено пользователю ID: 5273134294
+2025-10-06T10:02:48.893+07:00  INFO 16892 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 294572608 запросил свой ID
+2025-10-06T10:08:01.604+07:00  INFO 16892 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 7048604735 запросил свой ID
+2025-10-06T10:24:16.210+07:00  INFO 16892 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 331557448 запросил свой ID
+2025-10-06T10:24:49.233+07:00  INFO 16892 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Тестовое сообщение отправлено пользователю ID: 331557448
+2025-10-06T10:32:11.246+07:00  INFO 13656 --- [main] ru.brusnika.VacationBotApplication       : Starting VacationBotApplication using Java 17.0.13 with PID 13656 (C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation\target\classes started by s.mihno in C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation)
+2025-10-06T10:32:11.246+07:00  INFO 13656 --- [main] ru.brusnika.VacationBotApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-10-06T10:32:12.500+07:00  INFO 13656 --- [main] ru.brusnika.VacationBotApplication       : Started VacationBotApplication in 1.715 seconds (process running for 2.068)
+2025-10-06T10:32:12.516+07:00  INFO 13656 --- [main] ru.brusnika.config.DatabaseInitializer   : Проверка и создание базы данных...
+2025-10-06T10:32:12.625+07:00  INFO 13656 --- [main] ru.brusnika.config.DatabaseInitializer   : База данных и таблица users уже существуют.
+2025-10-06T10:32:13.141+07:00  INFO 13656 --- [main] ru.brusnika.VacationBotApplication       : ✅ Бот успешно зарегистрирован и запущен!
+2025-10-06T10:32:13.141+07:00  INFO 13656 --- [main] ru.brusnika.VacationBotApplication       : ✅ База данных инициализирована
+2025-10-06T10:32:13.141+07:00  INFO 13656 --- [main] ru.brusnika.VacationBotApplication       : ✅ Планировщик уведомлений активирован
+2025-10-06T10:34:44.009+07:00  INFO 13656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 2046374925 запросил свой ID
+2025-10-06T10:35:00.026+07:00  INFO 13656 --- [scheduling-1] r.brusnika.service.NotificationService   : === ПРОВЕРКА ПРЕДСТОЯЩИХ ОТПУСКОВ ===
+2025-10-06T10:35:00.075+07:00  INFO 13656 --- [scheduling-1] r.brusnika.service.NotificationService   : Найдено пользователей для уведомления: 1
+2025-10-06T10:35:00.075+07:00  INFO 13656 --- [scheduling-1] r.brusnika.service.NotificationService   : Отправка уведомления пользователю: Пешкова Татьяна Сергеевна
+2025-10-06T10:35:00.353+07:00  INFO 13656 --- [scheduling-1] r.brusnika.service.NotificationService   : Уведомление отправлено пользователю 1468311156 (отпуск #1)
+2025-10-06T10:45:39.566+07:00  INFO 13656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 1083015718 запросил свой ID
+2025-10-06T10:48:40.790+07:00  INFO 13656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 949917559 запросил свой ID
+2025-10-06T10:55:02.532+07:00  INFO 13656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 386186611 запросил свой ID
+2025-10-06T10:55:14.054+07:00  INFO 13656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Тестовое сообщение отправлено пользователю ID: 386186611
+2025-10-06T10:57:33.254+07:00  INFO 13656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 2059511954 запросил свой ID
+2025-10-06T11:14:56.380+07:00  INFO 13656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 452323238 запросил свой ID
+2025-10-06T11:27:58.109+07:00  INFO 8656 --- [main] ru.brusnika.VacationBotApplication       : Starting VacationBotApplication using Java 17.0.13 with PID 8656 (C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation\target\classes started by s.mihno in C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation)
+2025-10-06T11:27:58.109+07:00  INFO 8656 --- [main] ru.brusnika.VacationBotApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-10-06T11:27:59.310+07:00  INFO 8656 --- [main] ru.brusnika.VacationBotApplication       : Started VacationBotApplication in 1.628 seconds (process running for 1.971)
+2025-10-06T11:27:59.310+07:00  INFO 8656 --- [main] ru.brusnika.config.DatabaseInitializer   : Проверка и создание базы данных...
+2025-10-06T11:27:59.419+07:00  INFO 8656 --- [main] ru.brusnika.config.DatabaseInitializer   : База данных и таблица users уже существуют.
+2025-10-06T11:27:59.951+07:00  INFO 8656 --- [main] ru.brusnika.VacationBotApplication       : ✅ Бот успешно зарегистрирован и запущен!
+2025-10-06T11:27:59.951+07:00  INFO 8656 --- [main] ru.brusnika.VacationBotApplication       : ✅ База данных инициализирована
+2025-10-06T11:27:59.951+07:00  INFO 8656 --- [main] ru.brusnika.VacationBotApplication       : ✅ Планировщик уведомлений активирован
+2025-10-06T11:28:00.014+07:00  INFO 8656 --- [scheduling-1] r.brusnika.service.NotificationService   : === ПРОВЕРКА ПРЕДСТОЯЩИХ ОТПУСКОВ ===
+2025-10-06T11:28:00.029+07:00  INFO 8656 --- [scheduling-1] r.brusnika.service.NotificationService   : Найдено пользователей для уведомления: 1
+2025-10-06T11:28:00.029+07:00  INFO 8656 --- [scheduling-1] r.brusnika.service.NotificationService   : Отправка уведомления пользователю: Михно Сергей Викторович
+2025-10-06T11:28:00.405+07:00  INFO 8656 --- [scheduling-1] r.brusnika.service.NotificationService   : Уведомление отправлено пользователю 472237124 (отпуск #1)
+2025-10-06T11:32:42.522+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 6840312556 запросил свой ID
+2025-10-06T11:36:33.131+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 143397169 запросил свой ID
+2025-10-06T11:41:26.757+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 388155883 запросил свой ID
+2025-10-06T11:42:53.692+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 243474302 запросил свой ID
+2025-10-06T11:43:05.023+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 332947332 запросил свой ID
+2025-10-06T11:44:16.994+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 1036121964 запросил свой ID
+2025-10-06T11:44:25.835+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 5506082148 запросил свой ID
+2025-10-06T11:45:09.191+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Тестовое сообщение отправлено пользователю ID: 1036121964
+2025-10-06T12:07:10.468+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 854810454 запросил свой ID
+2025-10-06T12:11:00.809+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 5122080940 запросил свой ID
+2025-10-06T12:19:36.854+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 2079413328 запросил свой ID
+2025-10-06T12:20:04.236+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 443550766 запросил свой ID
+2025-10-06T12:26:47.525+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 6676258115 запросил свой ID
+2025-10-06T12:30:55.259+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 968887817 запросил свой ID
+2025-10-06T12:35:17.770+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 1263071 запросил свой ID
+2025-10-06T12:50:51.520+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Тестовое сообщение отправлено пользователю ID: 472237124
+2025-10-06T12:51:42.029+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 473747992 запросил свой ID
+2025-10-06T13:02:23.623+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 217334746 запросил свой ID
+2025-10-06T13:03:27.196+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Тестовое сообщение отправлено пользователю ID: 217334746
+2025-10-06T13:12:40.258+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 5023471099 запросил свой ID
+2025-10-06T13:24:15.300+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 141253156 запросил свой ID
+2025-10-06T13:25:02.278+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 205835988 запросил свой ID
+2025-10-06T13:25:49.811+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Тестовое сообщение отправлено пользователю ID: 141253156
+2025-10-06T14:27:27.906+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 5579064463 запросил свой ID
+2025-10-06T14:46:03.363+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 404624016 запросил свой ID
+2025-10-06T14:54:11.833+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 324267860 запросил свой ID
+2025-10-06T15:17:58.856+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 782536437 запросил свой ID
+2025-10-06T15:26:11.254+07:00  INFO 8656 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Тестовое сообщение отправлено пользователю ID: 2059511954
+2025-10-06T16:02:02.016+07:00  INFO 18372 --- [main] ru.brusnika.VacationBotApplication       : Starting VacationBotApplication using Java 17.0.13 with PID 18372 (C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation\target\classes started by s.mihno in C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation)
+2025-10-06T16:02:02.016+07:00  INFO 18372 --- [main] ru.brusnika.VacationBotApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-10-06T16:02:03.263+07:00  INFO 18372 --- [main] ru.brusnika.VacationBotApplication       : Started VacationBotApplication in 1.671 seconds (process running for 2.049)
+2025-10-06T16:02:03.266+07:00  INFO 18372 --- [main] ru.brusnika.config.DatabaseInitializer   : Проверка и создание базы данных...
+2025-10-06T16:02:03.376+07:00  INFO 18372 --- [main] ru.brusnika.config.DatabaseInitializer   : База данных и таблица users уже существуют.
+2025-10-06T16:02:03.878+07:00  INFO 18372 --- [main] ru.brusnika.VacationBotApplication       : ✅ Бот успешно зарегистрирован и запущен!
+2025-10-06T16:02:03.878+07:00  INFO 18372 --- [main] ru.brusnika.VacationBotApplication       : ✅ База данных инициализирована
+2025-10-06T16:02:03.878+07:00  INFO 18372 --- [main] ru.brusnika.VacationBotApplication       : ✅ Планировщик уведомлений активирован
+2025-10-06T16:03:00.008+07:00  INFO 18372 --- [scheduling-1] r.brusnika.service.NotificationService   : === ПРОВЕРКА ПРЕДСТОЯЩИХ ОТПУСКОВ ===
+2025-10-06T16:03:00.023+07:00  INFO 18372 --- [scheduling-1] r.brusnika.service.NotificationService   : Найдено пользователей для уведомления: 2
+2025-10-06T16:03:00.023+07:00  INFO 18372 --- [scheduling-1] r.brusnika.service.NotificationService   : Отправка уведомления пользователю: Глазунов Дмитрий Александрович
+2025-10-06T16:03:00.494+07:00  INFO 18372 --- [scheduling-1] r.brusnika.service.NotificationService   : Уведомление отправлено пользователю 143397169 (отпуск #1)
+2025-10-06T16:03:00.494+07:00  INFO 18372 --- [scheduling-1] r.brusnika.service.NotificationService   : Отправка уведомления пользователю: Белых Евгений Романович
+2025-10-06T16:03:00.775+07:00  INFO 18372 --- [scheduling-1] r.brusnika.service.NotificationService   : Уведомление отправлено пользователю 5023471099 (отпуск #1)
+2025-10-06T16:15:46.834+07:00  INFO 6228 --- [main] ru.brusnika.VacationBotApplication       : Starting VacationBotApplication using Java 17.0.13 with PID 6228 (C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation\target\classes started by s.mihno in C:\Users\s.mihno\Desktop\JavaEdu\vacation\vacation)
+2025-10-06T16:15:46.834+07:00  INFO 6228 --- [main] ru.brusnika.VacationBotApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-10-06T16:15:48.132+07:00  INFO 6228 --- [main] ru.brusnika.VacationBotApplication       : Started VacationBotApplication in 1.716 seconds (process running for 2.067)
+2025-10-06T16:15:48.132+07:00  INFO 6228 --- [main] ru.brusnika.config.DatabaseInitializer   : Проверка и создание базы данных...
+2025-10-06T16:15:48.257+07:00  INFO 6228 --- [main] ru.brusnika.config.DatabaseInitializer   : База данных и таблица users уже существуют.
+2025-10-06T16:15:48.743+07:00  INFO 6228 --- [main] ru.brusnika.VacationBotApplication       : ✅ Бот успешно зарегистрирован и запущен!
+2025-10-06T16:15:48.744+07:00  INFO 6228 --- [main] ru.brusnika.VacationBotApplication       : ✅ База данных инициализирована
+2025-10-06T16:15:48.744+07:00  INFO 6228 --- [main] ru.brusnika.VacationBotApplication       : ✅ Планировщик уведомлений активирован
