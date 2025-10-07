@@ -41,7 +41,7 @@ token.txt
 .DS_Store
 
 ### jar_file ###
-*.jar
+!.out/artifacts/vacation_jar/vacation.jar
 
 ### Log ###
 *.gz
