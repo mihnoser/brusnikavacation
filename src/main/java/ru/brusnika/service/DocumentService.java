@@ -74,7 +74,6 @@ public class DocumentService {
                 .append("        <tr><td><div class=\"headnotification\" align=\"center\">о начале ежегодного отпуска</div></td></tr>")
                 .append("        <tr><td><div><br></div></td></tr>")
                 .append("        <tr><td><div class=\"datenumber\">").append(data.get("notificationDate")).append("</div></td></tr>")
-                .append("        <tr><td><div class=\"date\">&emsp;(дата)</div></td></tr>")
                 .append("        <tr><td><div><br></div></td></tr>")
                 .append("        <tr><td><div class=\"dear IO\" align=\"center\">Уважаемый (ая) ").append(data.get("employeeName")).append("!</div></td></tr>")
                 .append("        <tr><td><div><br></div></td></tr>")

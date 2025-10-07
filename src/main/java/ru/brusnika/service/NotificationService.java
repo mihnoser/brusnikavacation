@@ -27,7 +27,7 @@ public class NotificationService {
         this.documentService = documentService;
     }
 
-    @Scheduled(cron = "0 15 10 * * ?") // Ежедневно в 9:00
+    @Scheduled(cron = "0 42 17 * * ?") // Ежедневно в 9:00
     public void checkUpcomingVacations() {
         logger.info("=== ПРОВЕРКА ПРЕДСТОЯЩИХ ОТПУСКОВ ===");
 

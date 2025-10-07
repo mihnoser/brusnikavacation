@@ -234,3 +234,110 @@
 2025-10-06T16:15:48.743+07:00  INFO 6228 --- [main] ru.brusnika.VacationBotApplication       : ✅ Бот успешно зарегистрирован и запущен!
 2025-10-06T16:15:48.744+07:00  INFO 6228 --- [main] ru.brusnika.VacationBotApplication       : ✅ База данных инициализирована
 2025-10-06T16:15:48.744+07:00  INFO 6228 --- [main] ru.brusnika.VacationBotApplication       : ✅ Планировщик уведомлений активирован
+2025-10-07T07:56:13.673+07:00  INFO 8956 --- [main] ru.brusnika.VacationBotApplication       : Starting VacationBotApplication using Java 17.0.16 with PID 8956 (C:\Users\Sergey\Desktop\MyJob\vacation\vacation\target\classes started by Sergey in C:\Users\Sergey\Desktop\MyJob\vacation\vacation)
+2025-10-07T07:56:13.673+07:00  INFO 8956 --- [main] ru.brusnika.VacationBotApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-10-07T07:56:15.600+07:00  INFO 8956 --- [main] ru.brusnika.VacationBotApplication       : Started VacationBotApplication in 2.643 seconds (process running for 3.292)
+2025-10-07T07:56:15.600+07:00  INFO 8956 --- [main] ru.brusnika.config.DatabaseInitializer   : Проверка и создание базы данных...
+2025-10-07T07:56:15.756+07:00  INFO 8956 --- [main] ru.brusnika.config.DatabaseInitializer   : База данных и таблица users уже существуют.
+2025-10-07T07:56:16.495+07:00  INFO 8956 --- [main] ru.brusnika.VacationBotApplication       : ✅ Бот успешно зарегистрирован и запущен!
+2025-10-07T07:56:16.495+07:00  INFO 8956 --- [main] ru.brusnika.VacationBotApplication       : ✅ База данных инициализирована
+2025-10-07T07:56:16.495+07:00  INFO 8956 --- [main] ru.brusnika.VacationBotApplication       : ✅ Планировщик уведомлений активирован
+2025-10-07T08:00:00.014+07:00  INFO 8956 --- [scheduling-1] r.brusnika.service.NotificationService   : === ПРОВЕРКА ПРЕДСТОЯЩИХ ОТПУСКОВ ===
+2025-10-07T08:00:00.045+07:00  INFO 8956 --- [scheduling-1] r.brusnika.service.NotificationService   : Найдено пользователей для уведомления: 0
+2025-10-07T08:13:54.165+07:00  INFO 8956 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 1015744365 запросил свой ID
+2025-10-07T08:15:19.825+07:00  INFO 8956 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 565172298 запросил свой ID
+2025-10-07T08:16:08.339+07:00  INFO 8956 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 1015744365 запросил свой ID
+2025-10-07T08:37:32.607+07:00  INFO 8956 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 1927914448 запросил свой ID
+2025-10-07T09:01:07.918+07:00  INFO 8956 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 5569612019 запросил свой ID
+2025-10-07T11:24:21.719+07:00  INFO 8956 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 858810384 запросил свой ID
+2025-10-07T11:24:26.610+07:00  INFO 8956 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Тестовое сообщение отправлено пользователю ID: 858810384
+2025-10-07T11:24:59.882+07:00  INFO 8956 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Пользователь ID: 854167459 запросил свой ID
+2025-10-07T14:12:41.730+07:00  INFO 8956 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Тестовое сообщение отправлено пользователю ID: 472237124
+2025-10-07T14:52:14.842+07:00  INFO 7132 --- [main] ru.brusnika.VacationBotApplication       : Starting VacationBotApplication using Java 17.0.16 with PID 7132 (C:\Users\Sergey\Desktop\MyJob\vacation\vacation\target\classes started by Sergey in C:\Users\Sergey\Desktop\MyJob\vacation\vacation)
+2025-10-07T14:52:14.842+07:00  INFO 7132 --- [main] ru.brusnika.VacationBotApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-10-07T14:52:16.645+07:00  INFO 7132 --- [main] ru.brusnika.VacationBotApplication       : Started VacationBotApplication in 2.433 seconds (process running for 3.025)
+2025-10-07T14:52:16.645+07:00  INFO 7132 --- [main] ru.brusnika.config.DatabaseInitializer   : Проверка и создание базы данных...
+2025-10-07T14:52:16.801+07:00  INFO 7132 --- [main] ru.brusnika.config.DatabaseInitializer   : База данных и таблица users уже существуют.
+2025-10-07T14:52:17.546+07:00  INFO 7132 --- [main] ru.brusnika.VacationBotApplication       : ✅ Бот успешно зарегистрирован и запущен!
+2025-10-07T14:52:17.547+07:00  INFO 7132 --- [main] ru.brusnika.VacationBotApplication       : ✅ База данных инициализирована
+2025-10-07T14:52:17.547+07:00  INFO 7132 --- [main] ru.brusnika.VacationBotApplication       : ✅ Планировщик уведомлений активирован
+2025-10-07T14:52:18.083+07:00  INFO 7132 --- [Брусника. Отпуск. НСК Telegram Executor] ru.brusnika.service.TelegramBotService   : Тестовое сообщение отправлено пользователю ID: 472237124
+2025-10-07 16:51:19 - Starting VacationBotApplication using Java 17.0.16 with PID 9264 (C:\Users\Sergey\Desktop\MyJob\vacation\vacation\target\classes started by Sergey in C:\Users\Sergey\Desktop\MyJob\vacation\vacation)
+2025-10-07 16:51:19 - No active profile set, falling back to 1 default profile: "default"
+2025-10-07 16:51:21 - Started VacationBotApplication in 2.324 seconds (process running for 2.783)
+2025-10-07 16:51:21 - Проверка и создание базы данных...
+2025-10-07 16:51:21 - HikariPool-1 - Starting...
+2025-10-07 16:51:21 - HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@4cb2918c
+2025-10-07 16:51:21 - HikariPool-1 - Start completed.
+2025-10-07 16:51:21 - База данных и таблица users уже существуют.
+2025-10-07 16:51:22 - ✅ Бот успешно зарегистрирован и запущен!
+2025-10-07 16:51:22 - ✅ База данных инициализирована
+2025-10-07 16:51:22 - ✅ Планировщик уведомлений активирован
+2025-10-07 16:51:33 - Тестовое сообщение отправлено пользователю ID: 472237124
+2025-10-07 16:52:59 - HikariPool-1 - Shutdown initiated...
+2025-10-07 16:52:59 - HikariPool-1 - Shutdown completed.
+2025-10-07 16:53:07 - Starting VacationBotApplication using Java 17.0.16 with PID 1996 (C:\Users\Sergey\Desktop\MyJob\vacation\vacation\target\classes started by Sergey in C:\Users\Sergey\Desktop\MyJob\vacation\vacation)
+2025-10-07 16:53:07 - No active profile set, falling back to 1 default profile: "default"
+2025-10-07 16:53:08 - Started VacationBotApplication in 2.278 seconds (process running for 2.761)
+2025-10-07 16:53:08 - Проверка и создание базы данных...
+2025-10-07 16:53:08 - HikariPool-1 - Starting...
+2025-10-07 16:53:08 - HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@2373ad99
+2025-10-07 16:53:08 - HikariPool-1 - Start completed.
+2025-10-07 16:53:08 - База данных и таблица users уже существуют.
+2025-10-07 16:53:09 - ✅ Бот успешно зарегистрирован и запущен!
+2025-10-07 16:53:09 - ✅ База данных инициализирована
+2025-10-07 16:53:09 - ✅ Планировщик уведомлений активирован
+2025-10-07 16:53:21 - Тестовое сообщение отправлено пользователю ID: 472237124
+2025-10-07 16:55:14 - HikariPool-1 - Shutdown initiated...
+2025-10-07 16:55:14 - HikariPool-1 - Shutdown completed.
+2025-10-07 16:55:18 - Starting VacationBotApplication using Java 17.0.16 with PID 10568 (C:\Users\Sergey\Desktop\MyJob\vacation\vacation\target\classes started by Sergey in C:\Users\Sergey\Desktop\MyJob\vacation\vacation)
+2025-10-07 16:55:18 - No active profile set, falling back to 1 default profile: "default"
+2025-10-07 16:55:20 - Started VacationBotApplication in 2.298 seconds (process running for 2.777)
+2025-10-07 16:55:20 - Проверка и создание базы данных...
+2025-10-07 16:55:20 - HikariPool-1 - Starting...
+2025-10-07 16:55:20 - HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@7e0bc8a3
+2025-10-07 16:55:20 - HikariPool-1 - Start completed.
+2025-10-07 16:55:20 - База данных и таблица users уже существуют.
+2025-10-07 16:55:21 - ✅ Бот успешно зарегистрирован и запущен!
+2025-10-07 16:55:21 - ✅ База данных инициализирована
+2025-10-07 16:55:21 - ✅ Планировщик уведомлений активирован
+2025-10-07 16:56:00 - === ПРОВЕРКА ПРЕДСТОЯЩИХ ОТПУСКОВ ===
+2025-10-07 16:56:00 - Найдено пользователей для уведомления: 1
+2025-10-07 16:56:00 - Отправка уведомления пользователю: Михно Сергей Викторович
+2025-10-07 16:56:00 - Уведомление отправлено пользователю 472237124 (отпуск #1)
+2025-10-07 17:13:58 - HikariPool-1 - Shutdown initiated...
+2025-10-07 17:13:58 - HikariPool-1 - Shutdown completed.
+2025-10-07 17:14:06 [main] INFO  ru.brusnika.VacationBotApplication - Starting VacationBotApplication using Java 17.0.16 with PID 6696 (C:\Users\Sergey\Desktop\MyJob\vacation\vacation\target\classes started by Sergey in C:\Users\Sergey\Desktop\MyJob\vacation\vacation)
+2025-10-07 17:14:06 [main] INFO  ru.brusnika.VacationBotApplication - No active profile set, falling back to 1 default profile: "default"
+2025-10-07 17:14:07 [main] INFO  r.b.service.TelegramBotService - TelegramBotService инициализирован для бота: ????????. ??????. ???
+2025-10-07 17:14:08 [main] INFO  ru.brusnika.VacationBotApplication - Started VacationBotApplication in 2.26 seconds (process running for 2.764)
+2025-10-07 17:14:08 [main] INFO  r.b.config.DatabaseInitializer - Проверка и создание базы данных...
+2025-10-07 17:14:08 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-10-07 17:14:08 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@6fa0450e
+2025-10-07 17:14:08 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-10-07 17:14:08 [main] INFO  r.b.config.DatabaseInitializer - База данных и таблица users уже существуют.
+2025-10-07 17:14:09 [main] INFO  ru.brusnika.VacationBotApplication - ✅ Бот успешно зарегистрирован и запущен!
+2025-10-07 17:14:09 [main] INFO  ru.brusnika.VacationBotApplication - ✅ База данных инициализирована
+2025-10-07 17:14:09 [main] INFO  ru.brusnika.VacationBotApplication - ✅ Планировщик уведомлений активирован
+2025-10-07 17:14:14 [????????. ??????. ??? Telegram Executor] INFO  r.b.service.TelegramBotService - Тестовое сообщение отправлено пользователю ID: 472237124
+2025-10-07 17:41:07 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-10-07 17:41:07 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-10-07 17:41:11 [main] INFO  ru.brusnika.VacationBotApplication - Starting VacationBotApplication using Java 17.0.16 with PID 10004 (C:\Users\Sergey\Desktop\MyJob\vacation\vacation\target\classes started by Sergey in C:\Users\Sergey\Desktop\MyJob\vacation\vacation)
+2025-10-07 17:41:11 [main] INFO  ru.brusnika.VacationBotApplication - No active profile set, falling back to 1 default profile: "default"
+2025-10-07 17:41:12 [main] INFO  r.b.service.TelegramBotService - TelegramBotService инициализирован для бота: ????????. ??????. ???
+2025-10-07 17:41:13 [main] INFO  ru.brusnika.VacationBotApplication - Started VacationBotApplication in 2.322 seconds (process running for 2.762)
+2025-10-07 17:41:13 [main] INFO  r.b.config.DatabaseInitializer - Проверка и создание базы данных...
+2025-10-07 17:41:13 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-10-07 17:41:13 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@3050ac2f
+2025-10-07 17:41:13 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-10-07 17:41:13 [main] INFO  r.b.config.DatabaseInitializer - База данных и таблица users уже существуют.
+2025-10-07 17:41:13 [main] INFO  ru.brusnika.VacationBotApplication - ✅ Бот успешно зарегистрирован и запущен!
+2025-10-07 17:41:13 [main] INFO  ru.brusnika.VacationBotApplication - ✅ База данных инициализирована
+2025-10-07 17:41:13 [main] INFO  ru.brusnika.VacationBotApplication - ✅ Планировщик уведомлений активирован
+2025-10-07 17:42:00 [scheduling-1] INFO  r.b.service.NotificationService - === ПРОВЕРКА ПРЕДСТОЯЩИХ ОТПУСКОВ ===
+2025-10-07 17:42:00 [scheduling-1] INFO  r.b.service.NotificationService - Найдено пользователей для уведомления: 1
+2025-10-07 17:42:00 [scheduling-1] INFO  r.b.service.NotificationService - Отправка уведомления пользователю: Михно Сергей Викторович
+2025-10-07 17:42:00 [scheduling-1] INFO  r.b.service.TelegramBotService - Документ отправлен пользователю 472237124
+2025-10-07 17:42:00 [scheduling-1] INFO  r.b.service.NotificationService - Уведомление отправлено пользователю 472237124 (отпуск #1)
+2025-10-07 17:48:08 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-10-07 17:48:08 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

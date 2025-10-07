@@ -1,0 +1,197 @@
+2025-09-30T10:13:06.804+07:00  INFO 2116 --- [main] ru.brusnika.VacationBotApplication       : Starting VacationBotApplication using Java 17.0.16 with PID 2116 (C:\Users\Sergey\Desktop\MyJob\vacation\vacation\target\classes started by Sergey in C:\Users\Sergey\Desktop\MyJob\vacation\vacation)
+2025-09-30T10:13:06.804+07:00 DEBUG 2116 --- [main] ru.brusnika.VacationBotApplication       : Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-09-30T10:13:06.804+07:00  INFO 2116 --- [main] ru.brusnika.VacationBotApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-09-30T10:13:08.207+07:00 DEBUG 2116 --- [main] ru.brusnika.config.AppConfig$1           : Loaded JDBC driver: org.sqlite.JDBC
+2025-09-30T10:13:08.426+07:00 DEBUG 2116 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2025-09-30T10:13:08.473+07:00 DEBUG 2116 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2025-09-30T10:13:08.520+07:00  INFO 2116 --- [main] ru.brusnika.VacationBotApplication       : Started VacationBotApplication in 2.251 seconds (process running for 2.706)
+2025-09-30T10:13:08.520+07:00  INFO 2116 --- [main] ru.brusnika.config.DatabaseInitializer   : Проверка и создание базы данных...
+2025-09-30T10:13:08.520+07:00 DEBUG 2116 --- [main] o.s.jdbc.core.JdbcTemplate               : Executing SQL statement [SELECT count(*) FROM users]
+2025-09-30T10:13:08.520+07:00 DEBUG 2116 --- [main] ru.brusnika.config.AppConfig$1           : Creating new JDBC DriverManager Connection to [jdbc:sqlite:vacation.db]
+2025-09-30T10:13:08.639+07:00 DEBUG 2116 --- [main] ru.brusnika.config.AppConfig$1           : Established shared JDBC Connection: org.sqlite.jdbc4.JDBC4Connection@3aa41da1
+2025-09-30T10:13:08.655+07:00  INFO 2116 --- [main] ru.brusnika.config.DatabaseInitializer   : База данных и таблица users уже существуют.
+2025-09-30T10:13:09.249+07:00  INFO 2116 --- [main] ru.brusnika.VacationBotApplication       : ✅ Бот успешно зарегистрирован и запущен!
+2025-09-30T10:13:09.250+07:00  INFO 2116 --- [main] ru.brusnika.VacationBotApplication       : ✅ База данных инициализирована
+2025-09-30T10:13:09.250+07:00  INFO 2116 --- [main] ru.brusnika.VacationBotApplication       : ✅ Планировщик уведомлений активирован
+2025-09-30T10:13:17.920+07:00 DEBUG 2116 --- [SpringApplicationShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2025-09-30T10:13:17.920+07:00 DEBUG 2116 --- [SpringApplicationShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2025-09-30T10:13:31.582+07:00  INFO 2344 --- [main] ru.brusnika.VacationBotApplication       : Starting VacationBotApplication using Java 17.0.16 with PID 2344 (C:\Users\Sergey\Desktop\MyJob\vacation\vacation\target\classes started by Sergey in C:\Users\Sergey\Desktop\MyJob\vacation\vacation)
+2025-09-30T10:13:31.582+07:00 DEBUG 2344 --- [main] ru.brusnika.VacationBotApplication       : Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-09-30T10:13:31.582+07:00  INFO 2344 --- [main] ru.brusnika.VacationBotApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-09-30T10:13:32.936+07:00 DEBUG 2344 --- [main] ru.brusnika.config.AppConfig$1           : Loaded JDBC driver: org.sqlite.JDBC
+2025-09-30T10:13:33.171+07:00 DEBUG 2344 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2025-09-30T10:13:33.218+07:00 DEBUG 2344 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2025-09-30T10:13:33.250+07:00  INFO 2344 --- [main] ru.brusnika.VacationBotApplication       : Started VacationBotApplication in 2.234 seconds (process running for 2.678)
+2025-09-30T10:13:33.250+07:00  INFO 2344 --- [main] ru.brusnika.config.DatabaseInitializer   : Проверка и создание базы данных...
+2025-09-30T10:13:33.250+07:00 DEBUG 2344 --- [main] o.s.jdbc.core.JdbcTemplate               : Executing SQL statement [SELECT count(*) FROM users]
+2025-09-30T10:13:33.250+07:00 DEBUG 2344 --- [main] ru.brusnika.config.AppConfig$1           : Creating new JDBC DriverManager Connection to [jdbc:sqlite:vacation.db]
+2025-09-30T10:13:33.375+07:00 DEBUG 2344 --- [main] ru.brusnika.config.AppConfig$1           : Established shared JDBC Connection: org.sqlite.jdbc4.JDBC4Connection@3ba46e63
+2025-09-30T10:13:33.390+07:00  INFO 2344 --- [main] ru.brusnika.config.DatabaseInitializer   : База данных и таблица users уже существуют.
+2025-09-30T10:13:34.020+07:00  INFO 2344 --- [main] ru.brusnika.VacationBotApplication       : ✅ Бот успешно зарегистрирован и запущен!
+2025-09-30T10:13:34.020+07:00  INFO 2344 --- [main] ru.brusnika.VacationBotApplication       : ✅ База данных инициализирована
+2025-09-30T10:13:34.020+07:00  INFO 2344 --- [main] ru.brusnika.VacationBotApplication       : ✅ Планировщик уведомлений активирован
+2025-09-30T10:14:00.015+07:00  INFO 2344 --- [scheduling-1] r.brusnika.service.NotificationService   : === ЕЖЕДНЕВНАЯ ПРОВЕРКА ОТПУСКОВ ===
+2025-09-30T10:14:00.015+07:00  INFO 2344 --- [scheduling-1] r.brusnika.service.NotificationService   : 📅 Текущая дата: 2025-09-30
+2025-09-30T10:14:00.031+07:00  INFO 2344 --- [scheduling-1] r.brusnika.service.NotificationService   : 🎯 Ищем отпуска на дату: 2025-10-21 (сегодня + 21 дней)
+2025-09-30T10:14:00.031+07:00 DEBUG 2344 --- [scheduling-1] o.s.jdbc.core.JdbcTemplate               : Executing prepared SQL query
+2025-09-30T10:14:00.031+07:00 DEBUG 2344 --- [scheduling-1] o.s.jdbc.core.JdbcTemplate               : Executing prepared SQL statement [SELECT * FROM users
+WHERE (vacation1_date = ? AND vacation1_notified = 0)
+   OR (vacation2_date = ? AND vacation2_notified = 0)
+   OR (vacation3_date = ? AND vacation3_notified = 0)
+   OR (vacation4_date = ? AND vacation4_notified = 0)
+   OR (vacation5_date = ? AND vacation5_notified = 0)
+]
+2025-09-30T10:14:00.047+07:00  INFO 2344 --- [scheduling-1] r.brusnika.service.NotificationService   : 👥 Найдено пользователей для уведомления: 0
+2025-09-30T10:14:00.047+07:00  INFO 2344 --- [scheduling-1] r.brusnika.service.NotificationService   : ℹ️ На сегодня уведомлений нет.
+2025-09-30T10:16:42.222+07:00 DEBUG 2344 --- [SpringApplicationShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2025-09-30T10:16:42.222+07:00 DEBUG 2344 --- [SpringApplicationShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2025-09-30T10:16:53.858+07:00  INFO 1668 --- [main] ru.brusnika.VacationBotApplication       : Starting VacationBotApplication using Java 17.0.16 with PID 1668 (C:\Users\Sergey\Desktop\MyJob\vacation\vacation\target\classes started by Sergey in C:\Users\Sergey\Desktop\MyJob\vacation\vacation)
+2025-09-30T10:16:53.858+07:00 DEBUG 1668 --- [main] ru.brusnika.VacationBotApplication       : Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-09-30T10:16:53.858+07:00  INFO 1668 --- [main] ru.brusnika.VacationBotApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-09-30T10:16:55.221+07:00 DEBUG 1668 --- [main] ru.brusnika.config.AppConfig$1           : Loaded JDBC driver: org.sqlite.JDBC
+2025-09-30T10:16:55.440+07:00 DEBUG 1668 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2025-09-30T10:16:55.487+07:00 DEBUG 1668 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2025-09-30T10:16:55.518+07:00  INFO 1668 --- [main] ru.brusnika.VacationBotApplication       : Started VacationBotApplication in 2.23 seconds (process running for 2.698)
+2025-09-30T10:16:55.518+07:00  INFO 1668 --- [main] ru.brusnika.config.DatabaseInitializer   : Проверка и создание базы данных...
+2025-09-30T10:16:55.518+07:00 DEBUG 1668 --- [main] o.s.jdbc.core.JdbcTemplate               : Executing SQL statement [SELECT count(*) FROM users]
+2025-09-30T10:16:55.518+07:00 DEBUG 1668 --- [main] ru.brusnika.config.AppConfig$1           : Creating new JDBC DriverManager Connection to [jdbc:sqlite:vacation.db]
+2025-09-30T10:16:55.659+07:00 DEBUG 1668 --- [main] ru.brusnika.config.AppConfig$1           : Established shared JDBC Connection: org.sqlite.jdbc4.JDBC4Connection@ae2db25
+2025-09-30T10:16:55.674+07:00  INFO 1668 --- [main] ru.brusnika.config.DatabaseInitializer   : База данных и таблица users уже существуют.
+2025-09-30T10:16:56.252+07:00  INFO 1668 --- [main] ru.brusnika.VacationBotApplication       : ✅ Бот успешно зарегистрирован и запущен!
+2025-09-30T10:16:56.252+07:00  INFO 1668 --- [main] ru.brusnika.VacationBotApplication       : ✅ База данных инициализирована
+2025-09-30T10:16:56.252+07:00  INFO 1668 --- [main] ru.brusnika.VacationBotApplication       : ✅ Планировщик уведомлений активирован
+2025-09-30T10:18:00.015+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : === ЕЖЕДНЕВНАЯ ПРОВЕРКА ОТПУСКОВ ===
+2025-09-30T10:18:00.015+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : 📅 Текущая дата: 2025-09-30
+2025-09-30T10:18:00.030+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : 🎯 Ищем отпуска на дату: 2025-10-21 (сегодня + 21 дней)
+2025-09-30T10:18:00.030+07:00 DEBUG 1668 --- [scheduling-1] o.s.jdbc.core.JdbcTemplate               : Executing prepared SQL query
+2025-09-30T10:18:00.030+07:00 DEBUG 1668 --- [scheduling-1] o.s.jdbc.core.JdbcTemplate               : Executing prepared SQL statement [SELECT * FROM users
+WHERE (vacation1_date = ? AND vacation1_notified = 0)
+   OR (vacation2_date = ? AND vacation2_notified = 0)
+   OR (vacation3_date = ? AND vacation3_notified = 0)
+   OR (vacation4_date = ? AND vacation4_notified = 0)
+   OR (vacation5_date = ? AND vacation5_notified = 0)
+]
+2025-09-30T10:18:00.046+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : 👥 Найдено пользователей для уведомления: 1
+2025-09-30T10:18:00.046+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : 🔍 Обработка пользователя: Михно Сергей Викторович (ID: 472237124)
+2025-09-30T10:18:00.046+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : 📤 Отправка уведомлений для Михно Сергей Викторович
+2025-09-30T10:18:00.046+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : 🏖️ Отпуск 1: дата=null, дни=12, уведомлен=false
+2025-09-30T10:18:00.046+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : 🔍 Проверка отправки уведомления: отпуск=null, дни=12, уведомлен=false, пропущенное=false
+2025-09-30T10:18:00.046+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : ❌ Нет даты отпуска
+2025-09-30T10:18:00.046+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : ❌ НЕ отправляем уведомление для отпуска #1, причина: нет даты отпуска
+2025-09-30T10:18:00.046+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : 🏖️ Отпуск 2: дата=2025-10-21, дни=7, уведомлен=false
+2025-09-30T10:18:00.046+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : 🔍 Проверка отправки уведомления: отпуск=2025-10-21, дни=7, уведомлен=false, пропущенное=false
+2025-09-30T10:18:00.046+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : 📅 Обычные: отпуск=2025-10-21, целевая дата=2025-10-21, совпадает=true
+2025-09-30T10:18:00.046+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : ✅ ОТПРАВЛЯЕМ уведомление для отпуска #2, дата: 2025-10-21
+2025-09-30T10:18:00.046+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : 📄 Генерация документа для пользователя 472237124 (отпуск #2)
+2025-09-30T10:18:00.046+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : ✉️ Отправка сообщения пользователю 472237124: Уважаемый(ая) Сергей Викторович! До вашего 2 отпуска осталось 21 день. Отправляем официальное уведомление. 📄
+2025-09-30T10:18:00.202+07:00 DEBUG 1668 --- [scheduling-1] ru.brusnika.service.TelegramBotService   : Сообщение отправлено пользователю 472237124
+2025-09-30T10:18:00.202+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : ✅ Текстовое сообщение отправлено пользователю 472237124
+2025-09-30T10:18:00.336+07:00 DEBUG 1668 --- [scheduling-1] ru.brusnika.service.TelegramBotService   : Документ отправлен пользователю 472237124
+2025-09-30T10:18:00.336+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : ✅ Документ отправлен пользователю 472237124
+2025-09-30T10:18:00.337+07:00 DEBUG 1668 --- [scheduling-1] o.s.jdbc.core.JdbcTemplate               : Executing prepared SQL update
+2025-09-30T10:18:00.338+07:00 DEBUG 1668 --- [scheduling-1] o.s.jdbc.core.JdbcTemplate               : Executing prepared SQL statement [UPDATE users SET vacation2_notified = 1 WHERE telegram_id = ?]
+2025-09-30T10:18:00.346+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : ✅ Уведомление успешно отправлено пользователю 472237124 (отпуск #2)
+2025-09-30T10:18:00.347+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : 🏖️ Отпуск 3: дата=null, дни=3, уведомлен=false
+2025-09-30T10:18:00.347+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : 🔍 Проверка отправки уведомления: отпуск=null, дни=3, уведомлен=false, пропущенное=false
+2025-09-30T10:18:00.347+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : ❌ Нет даты отпуска
+2025-09-30T10:18:00.347+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : ❌ НЕ отправляем уведомление для отпуска #3, причина: нет даты отпуска
+2025-09-30T10:18:00.347+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : 🏖️ Отпуск 4: дата=null, дни=6, уведомлен=false
+2025-09-30T10:18:00.348+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : 🔍 Проверка отправки уведомления: отпуск=null, дни=6, уведомлен=false, пропущенное=false
+2025-09-30T10:18:00.348+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : ❌ Нет даты отпуска
+2025-09-30T10:18:00.348+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : ❌ НЕ отправляем уведомление для отпуска #4, причина: нет даты отпуска
+2025-09-30T10:18:00.348+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : 🏖️ Отпуск 5: дата=null, дни=46, уведомлен=false
+2025-09-30T10:18:00.348+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : 🔍 Проверка отправки уведомления: отпуск=null, дни=46, уведомлен=false, пропущенное=false
+2025-09-30T10:18:00.348+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : ❌ Нет даты отпуска
+2025-09-30T10:18:00.348+07:00  INFO 1668 --- [scheduling-1] r.brusnika.service.NotificationService   : ❌ НЕ отправляем уведомление для отпуска #5, причина: нет даты отпуска
+2025-09-30T10:23:12.873+07:00 DEBUG 1668 --- [SpringApplicationShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2025-09-30T10:23:12.873+07:00 DEBUG 1668 --- [SpringApplicationShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2025-09-30T10:23:19.987+07:00  INFO 696 --- [main] ru.brusnika.VacationBotApplication       : Starting VacationBotApplication using Java 17.0.16 with PID 696 (C:\Users\Sergey\Desktop\MyJob\vacation\vacation\target\classes started by Sergey in C:\Users\Sergey\Desktop\MyJob\vacation\vacation)
+2025-09-30T10:23:19.990+07:00 DEBUG 696 --- [main] ru.brusnika.VacationBotApplication       : Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-09-30T10:23:19.992+07:00  INFO 696 --- [main] ru.brusnika.VacationBotApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-09-30T10:23:21.361+07:00 DEBUG 696 --- [main] ru.brusnika.config.AppConfig$1           : Loaded JDBC driver: org.sqlite.JDBC
+2025-09-30T10:23:21.591+07:00 DEBUG 696 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2025-09-30T10:23:21.637+07:00 DEBUG 696 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2025-09-30T10:23:21.670+07:00  INFO 696 --- [main] ru.brusnika.VacationBotApplication       : Started VacationBotApplication in 2.238 seconds (process running for 2.681)
+2025-09-30T10:23:21.674+07:00  INFO 696 --- [main] ru.brusnika.config.DatabaseInitializer   : Проверка и создание базы данных...
+2025-09-30T10:23:21.674+07:00 DEBUG 696 --- [main] o.s.jdbc.core.JdbcTemplate               : Executing SQL statement [SELECT count(*) FROM users]
+2025-09-30T10:23:21.678+07:00 DEBUG 696 --- [main] ru.brusnika.config.AppConfig$1           : Creating new JDBC DriverManager Connection to [jdbc:sqlite:vacation.db]
+2025-09-30T10:23:21.795+07:00 DEBUG 696 --- [main] ru.brusnika.config.AppConfig$1           : Established shared JDBC Connection: org.sqlite.jdbc4.JDBC4Connection@272ce069
+2025-09-30T10:23:21.809+07:00  INFO 696 --- [main] ru.brusnika.config.DatabaseInitializer   : База данных и таблица users уже существуют.
+2025-09-30T10:23:22.443+07:00  INFO 696 --- [main] ru.brusnika.VacationBotApplication       : ✅ Бот успешно зарегистрирован и запущен!
+2025-09-30T10:23:22.443+07:00  INFO 696 --- [main] ru.brusnika.VacationBotApplication       : ✅ База данных инициализирована
+2025-09-30T10:23:22.443+07:00  INFO 696 --- [main] ru.brusnika.VacationBotApplication       : ✅ Планировщик уведомлений активирован
+2025-09-30T10:25:00.012+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : === ЕЖЕДНЕВНАЯ ПРОВЕРКА ОТПУСКОВ ===
+2025-09-30T10:25:00.013+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : 📅 Текущая дата: 2025-09-30
+2025-09-30T10:25:00.016+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : 🎯 Ищем отпуска на дату: 2025-10-21 (сегодня + 21 дней)
+2025-09-30T10:25:00.022+07:00 DEBUG 696 --- [scheduling-1] o.s.jdbc.core.JdbcTemplate               : Executing prepared SQL query
+2025-09-30T10:25:00.023+07:00 DEBUG 696 --- [scheduling-1] o.s.jdbc.core.JdbcTemplate               : Executing prepared SQL statement [SELECT * FROM users
+WHERE (vacation1_date = ? AND vacation1_notified = 0)
+   OR (vacation2_date = ? AND vacation2_notified = 0)
+   OR (vacation3_date = ? AND vacation3_notified = 0)
+   OR (vacation4_date = ? AND vacation4_notified = 0)
+   OR (vacation5_date = ? AND vacation5_notified = 0)
+]
+2025-09-30T10:25:00.044+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : 👥 Найдено пользователей для уведомления: 1
+2025-09-30T10:25:00.044+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : 🔍 Обработка пользователя: Михно Сергей Викторович (ID: 472237124)
+2025-09-30T10:25:00.045+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : 📤 Отправка уведомлений для Михно Сергей Викторович
+2025-09-30T10:25:00.045+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : 🏖️ Отпуск 1: дата=2025-10-18, дни=12, уведомлен=false
+2025-09-30T10:25:00.046+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : 🔍 Проверка отправки уведомления: отпуск=2025-10-18, дни=12, уведомлен=false, пропущенное=false
+2025-09-30T10:25:00.046+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : 📅 Обычные: отпуск=2025-10-18, целевая дата=2025-10-21, совпадает=false
+2025-09-30T10:25:00.047+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : ❌ НЕ отправляем уведомление для отпуска #1, причина: дата не совпадает (отпуск: 2025-10-18, нужна: 2025-10-21)
+2025-09-30T10:25:00.047+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : 🏖️ Отпуск 2: дата=2025-10-19, дни=7, уведомлен=false
+2025-09-30T10:25:00.048+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : 🔍 Проверка отправки уведомления: отпуск=2025-10-19, дни=7, уведомлен=false, пропущенное=false
+2025-09-30T10:25:00.048+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : 📅 Обычные: отпуск=2025-10-19, целевая дата=2025-10-21, совпадает=false
+2025-09-30T10:25:00.048+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : ❌ НЕ отправляем уведомление для отпуска #2, причина: дата не совпадает (отпуск: 2025-10-19, нужна: 2025-10-21)
+2025-09-30T10:25:00.049+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : 🏖️ Отпуск 3: дата=2025-10-20, дни=3, уведомлен=false
+2025-09-30T10:25:00.049+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : 🔍 Проверка отправки уведомления: отпуск=2025-10-20, дни=3, уведомлен=false, пропущенное=false
+2025-09-30T10:25:00.050+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : 📅 Обычные: отпуск=2025-10-20, целевая дата=2025-10-21, совпадает=false
+2025-09-30T10:25:00.050+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : ❌ НЕ отправляем уведомление для отпуска #3, причина: дата не совпадает (отпуск: 2025-10-20, нужна: 2025-10-21)
+2025-09-30T10:25:00.050+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : 🏖️ Отпуск 4: дата=2025-10-21, дни=6, уведомлен=false
+2025-09-30T10:25:00.051+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : 🔍 Проверка отправки уведомления: отпуск=2025-10-21, дни=6, уведомлен=false, пропущенное=false
+2025-09-30T10:25:00.051+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : 📅 Обычные: отпуск=2025-10-21, целевая дата=2025-10-21, совпадает=true
+2025-09-30T10:25:00.051+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : ✅ ОТПРАВЛЯЕМ уведомление для отпуска #4, дата: 2025-10-21
+2025-09-30T10:25:00.052+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : 📄 Генерация документа для пользователя 472237124 (отпуск #4)
+2025-09-30T10:25:00.056+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : ✉️ Отправка сообщения пользователю 472237124: Уважаемый(ая) Сергей Викторович! До вашего 4 отпуска осталось 21 день. Отправляем официальное уведомление. 📄
+2025-09-30T10:25:00.398+07:00 DEBUG 696 --- [scheduling-1] ru.brusnika.service.TelegramBotService   : Сообщение отправлено пользователю 472237124
+2025-09-30T10:25:00.399+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : ✅ Текстовое сообщение отправлено пользователю 472237124
+2025-09-30T10:25:00.626+07:00 DEBUG 696 --- [scheduling-1] ru.brusnika.service.TelegramBotService   : Документ отправлен пользователю 472237124
+2025-09-30T10:25:00.627+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : ✅ Документ отправлен пользователю 472237124
+2025-09-30T10:25:00.630+07:00 DEBUG 696 --- [scheduling-1] o.s.jdbc.core.JdbcTemplate               : Executing prepared SQL update
+2025-09-30T10:25:00.633+07:00 DEBUG 696 --- [scheduling-1] o.s.jdbc.core.JdbcTemplate               : Executing prepared SQL statement [UPDATE users SET vacation4_notified = 1 WHERE telegram_id = ?]
+2025-09-30T10:25:00.643+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : ✅ Уведомление успешно отправлено пользователю 472237124 (отпуск #4)
+2025-09-30T10:25:00.644+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : 🏖️ Отпуск 5: дата=2025-10-22, дни=46, уведомлен=false
+2025-09-30T10:25:00.644+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : 🔍 Проверка отправки уведомления: отпуск=2025-10-22, дни=46, уведомлен=false, пропущенное=false
+2025-09-30T10:25:00.645+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : 📅 Обычные: отпуск=2025-10-22, целевая дата=2025-10-21, совпадает=false
+2025-09-30T10:25:00.645+07:00  INFO 696 --- [scheduling-1] r.brusnika.service.NotificationService   : ❌ НЕ отправляем уведомление для отпуска #5, причина: дата не совпадает (отпуск: 2025-10-22, нужна: 2025-10-21)
+2025-09-30T10:38:42.209+07:00 DEBUG 696 --- [SpringApplicationShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2025-09-30T10:38:42.210+07:00 DEBUG 696 --- [SpringApplicationShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2025-09-30T12:15:21.802+07:00  INFO 7764 --- [main] ru.brusnika.VacationBotApplication       : Starting VacationBotApplication using Java 17.0.16 with PID 7764 (C:\Users\Sergey\Desktop\MyJob\vacation\vacation\target\classes started by Sergey in C:\Users\Sergey\Desktop\MyJob\vacation\vacation)
+2025-09-30T12:15:21.806+07:00 DEBUG 7764 --- [main] ru.brusnika.VacationBotApplication       : Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-09-30T12:15:21.807+07:00  INFO 7764 --- [main] ru.brusnika.VacationBotApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-09-30T12:15:23.253+07:00 DEBUG 7764 --- [main] ru.brusnika.config.AppConfig$1           : Loaded JDBC driver: org.sqlite.JDBC
+2025-09-30T12:15:23.486+07:00 DEBUG 7764 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2025-09-30T12:15:23.533+07:00 DEBUG 7764 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2025-09-30T12:15:23.571+07:00  INFO 7764 --- [main] ru.brusnika.VacationBotApplication       : Started VacationBotApplication in 2.319 seconds (process running for 2.766)
+2025-09-30T12:15:23.574+07:00  INFO 7764 --- [main] ru.brusnika.config.DatabaseInitializer   : Проверка и создание базы данных...
+2025-09-30T12:15:23.578+07:00 DEBUG 7764 --- [main] ru.brusnika.config.AppConfig$1           : Creating new JDBC DriverManager Connection to [jdbc:sqlite:vacation.db]
+2025-09-30T12:15:23.703+07:00 DEBUG 7764 --- [main] ru.brusnika.config.AppConfig$1           : Established shared JDBC Connection: org.sqlite.jdbc4.JDBC4Connection@6812fa3a
+2025-09-30T12:15:23.714+07:00  INFO 7764 --- [main] ru.brusnika.config.DatabaseInitializer   : База данных и таблица users уже существуют.
+2025-09-30T12:15:24.334+07:00  INFO 7764 --- [main] ru.brusnika.VacationBotApplication       : ✅ Бот успешно зарегистрирован и запущен!
+2025-09-30T12:16:34.827+07:00 DEBUG 7764 --- [SpringApplicationShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2025-09-30T12:16:34.828+07:00 DEBUG 7764 --- [SpringApplicationShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2025-09-30T12:16:39.887+07:00  INFO 7144 --- [main] ru.brusnika.VacationBotApplication       : Starting VacationBotApplication using Java 17.0.16 with PID 7144 (C:\Users\Sergey\Desktop\MyJob\vacation\vacation\target\classes started by Sergey in C:\Users\Sergey\Desktop\MyJob\vacation\vacation)
+2025-09-30T12:16:39.889+07:00 DEBUG 7144 --- [main] ru.brusnika.VacationBotApplication       : Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-09-30T12:16:39.891+07:00  INFO 7144 --- [main] ru.brusnika.VacationBotApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-09-30T12:16:41.226+07:00 DEBUG 7144 --- [main] ru.brusnika.config.AppConfig$1           : Loaded JDBC driver: org.sqlite.JDBC
+2025-09-30T12:16:41.452+07:00 DEBUG 7144 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2025-09-30T12:16:41.499+07:00 DEBUG 7144 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2025-09-30T12:16:41.533+07:00  INFO 7144 --- [main] ru.brusnika.VacationBotApplication       : Started VacationBotApplication in 2.202 seconds (process running for 2.677)
+2025-09-30T12:16:41.536+07:00  INFO 7144 --- [main] ru.brusnika.config.DatabaseInitializer   : Проверка и создание базы данных...
+2025-09-30T12:16:41.540+07:00 DEBUG 7144 --- [main] ru.brusnika.config.AppConfig$1           : Creating new JDBC DriverManager Connection to [jdbc:sqlite:vacation.db]
+2025-09-30T12:16:41.662+07:00 DEBUG 7144 --- [main] ru.brusnika.config.AppConfig$1           : Established shared JDBC Connection: org.sqlite.jdbc4.JDBC4Connection@3ba46e63
+2025-09-30T12:16:41.674+07:00  INFO 7144 --- [main] ru.brusnika.config.DatabaseInitializer   : База данных и таблица users уже существуют.
+2025-09-30T12:16:42.254+07:00  INFO 7144 --- [main] ru.brusnika.VacationBotApplication       : ✅ Бот успешно зарегистрирован и запущен!
+2025-09-30T12:16:42.255+07:00  INFO 7144 --- [main] ru.brusnika.VacationBotApplication       : ✅ База данных инициализирована
+2025-09-30T12:16:42.255+07:00  INFO 7144 --- [main] ru.brusnika.VacationBotApplication       : ✅ Планировщик уведомлений активирован
+2025-09-30T12:20:35.282+07:00 DEBUG 7144 --- [SpringApplicationShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2025-09-30T12:20:35.283+07:00 DEBUG 7144 --- [SpringApplicationShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'

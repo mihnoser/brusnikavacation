@@ -35,7 +35,6 @@ build/
 .vscode/
 
 ### Token ###
-TelegramBotService.java
 token.txt
 
 ### Mac OS ###
