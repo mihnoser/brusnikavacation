@@ -40,5 +40,8 @@ token.txt
 ### Mac OS ###
 .DS_Store
 
+### jar_file ###
+*.jar
+
 ### Log ###
 *.gz
